@@ -11,9 +11,9 @@ Ethiopian modules for Odoo.
 
 Unported addons
 ---------------
-addon | version | summary
---- | --- | ---
-[l10n_et_base](l10n_et_base/) | 8.0.1.0.0 (unported) | Base module localization for Ethiopia
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[l10n_et_base](l10n_et_base/) | 8.0.1.0.0 (unported) |  | Base module localization for Ethiopia
 
 [//]: # (end addons)
 
