@@ -10,10 +10,16 @@ setuptools.setup(
     install_requires=[
         'odoo14-addon-ethiopic_calendar',
         'odoo14-addon-l10n_et_hr',
+        'odoo14-addon-l10n_et_hr_contract_type',
         'odoo14-addon-l10n_et_hr_employee_wizard',
+        'odoo14-addon-l10n_et_hr_holidays',
+        'odoo14-addon-l10n_et_hr_salary_structure_type',
         'odoo14-addon-l10n_et_payroll_FIT2016',
         'odoo14-addon-l10n_et_payroll_FIT2025',
         'odoo14-addon-l10n_et_payroll_category',
+        'odoo14-addon-l10n_et_report_hr_leave',
+        'odoo14-addon-l10n_et_res_currency',
+        'odoo14-addon-l10n_et_toponym',
         'odoo14-addon-l10n_et_tz',
     ],
     classifiers=[
